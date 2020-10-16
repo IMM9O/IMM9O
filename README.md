@@ -33,8 +33,9 @@
 ---
 
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=IMM9O&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" /><!-- wi*quL3fcV -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMM9O&hide_title=true&hide_border=true&layout=compact" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=IMM9O&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,84fab0,8fd3f4&theme=graywhite" /><!-- wi*quL3fcV -->
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMM9O&hide_title=true&hide_border=true&layout=compact&bg_color=0,84fab0,8fd3f4&theme=graywhite" />
+
 
 # 📚 Blog posts
 
@@ -44,5 +45,5 @@
 - [Every Performance tips for angular app (RunTime Part)](https://dev.to/imm9o/every-performance-tips-for-angular-app-runtime-part-hhg)
 - [Every Performance tips for angular app](https://dev.to/imm9o/every-performance-tips-for-angular-app-25c4)
 - [How I learn any front-end framework](https://dev.to/imm9o/how-i-learn-any-front-end-framework-29a2)
-- [Angular Layout Composition the complete guide](https://dev.to/imm9o/angular-content-projection-the-complete-guide--3dcb)
+- [Angular Layout Composition the complete guide ](https://dev.to/imm9o/angular-content-projection-the-complete-guide--3dcb)
 <!-- BLOG-POST-LIST:END -->
