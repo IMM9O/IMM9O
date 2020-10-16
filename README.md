@@ -44,5 +44,5 @@
 - [Every Performance tips for angular app (RunTime Part)](https://dev.to/imm9o/every-performance-tips-for-angular-app-runtime-part-hhg)
 - [Every Performance tips for angular app](https://dev.to/imm9o/every-performance-tips-for-angular-app-25c4)
 - [How I learn any front-end framework](https://dev.to/imm9o/how-i-learn-any-front-end-framework-29a2)
-- [Angular Layout Composition the complete guide ](https://dev.to/imm9o/angular-content-projection-the-complete-guide--3dcb)
+- [Angular Layout Composition the complete guide](https://dev.to/imm9o/angular-content-projection-the-complete-guide--3dcb)
 <!-- BLOG-POST-LIST:END -->
