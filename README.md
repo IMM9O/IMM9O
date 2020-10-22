@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm islam a frontend software developer</h1>
+<h1 align="center">
+  Hi, I'm islam a frontend software developer
+</h1>
 
-<table>
+<table align="center">
     <tr>
         <td>
             <a href="https://github.com/IMM9O">
