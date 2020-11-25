@@ -42,5 +42,5 @@
 - [What you gonna lose if you choose react over angular](https://imm9o.github.io/posts/what-you-gona-lose-if-you-chose-react-over-angular/)
 - [Web Components with angular](https://imm9o.github.io/posts/web_components_with_angular/)
 - [What you gonna lose if you choose react over angular](https://dev.to/imm9o/what-you-gona-lose-if-you-chose-react-over-angular-25ln)
-- [Every Performance tips for angular app (RunTime Part)](https://dev.to/imm9o/every-performance-tips-for-angular-app-runtime-part-hhg)
+- [What you gonna lose if you choose react over angular](https://medium.com/@IMM9O/what-you-gonna-lose-if-you-choose-react-over-angular-4dc96aaa4eac?source=rss-71c95d35fcb------2)
 <!-- BLOG-POST-LIST:END -->
