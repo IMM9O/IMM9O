@@ -15,14 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="imm9o" height="30" width="40" /></a>
+<a href="https://medium.com/@imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imm9o" height="30" width="40" /></a>
 <a href="https://dev.to/imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="imm9o" height="30" width="40" /></a>
+<a href="/https://imm9o.github.io/feed/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://imm9o.github.io/feed/feed.xml" height="30" width="40" /></a>
+<a href="https://codepen.io/imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="imm9o" height="30" width="40" /></a>
+<a href="https://codesandbox.com/imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="imm9o" height="30" width="40" /></a>
 <a href="https://twitter.com/imm9oo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imm9oo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/islam-muhammad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="islam-muhammad" height="30" width="40" /></a>
-<a href="https://codesandbox.com/imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="imm9o" height="30" width="40" /></a>
 <a href="https://fb.com/imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imm9o" height="30" width="40" /></a>
-<a href="https://medium.com/@imm9o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imm9o" height="30" width="40" /></a>
-<a href="/https://imm9o.github.io/feed/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://imm9o.github.io/feed/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
