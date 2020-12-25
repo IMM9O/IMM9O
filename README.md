@@ -39,8 +39,8 @@
 ### 📚 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What you gonna lose if you choose react over angular](https://imm9o.github.io/posts/what-you-gona-lose-if-you-chose-react-over-angular/)
-- [Web Components with angular](https://imm9o.github.io/posts/web_components_with_angular/)
-- [What you gonna lose if you choose react over angular](https://dev.to/imm9o/what-you-gona-lose-if-you-chose-react-over-angular-25ln)
 - [What you gonna lose if you choose react over angular](https://medium.com/@IMM9O/what-you-gonna-lose-if-you-choose-react-over-angular-4dc96aaa4eac?source=rss-71c95d35fcb------2)
+- [Angular Content Projection the complete guide](https://medium.com/@IMM9O/angular-content-projection-the-complete-guide-45d3bc1692f2?source=rss-71c95d35fcb------2)
+- [Web Components with angular](https://medium.com/@IMM9O/web-components-with-angular-d0205c9db08f?source=rss-71c95d35fcb------2)
+- [Support Emojis in Laravel Application](https://medium.com/@IMM9O/support-emojis-in-laravel-application-b2ccb5f027a?source=rss-71c95d35fcb------2)
 <!-- BLOG-POST-LIST:END -->
