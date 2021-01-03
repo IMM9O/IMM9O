@@ -22,7 +22,6 @@
 <a href="https://codesandbox.com/imm9o" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="imm9o" height="30" width="40" /></a>
 <a href="https://twitter.com/imm9oo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imm9oo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="islam-muhammad" height="30" width="40" /></a>
-<a href="https://fb.com/imm9o" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imm9o" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
