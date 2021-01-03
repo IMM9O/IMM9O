@@ -37,4 +37,8 @@
 ### 📚 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rules of change detections in angular](https://dev.to/imm9o/rules-of-change-detections-in-angular-5hhm)
+- [What you gonna lose if you choose react over angular](https://dev.to/imm9o/what-you-gona-lose-if-you-chose-react-over-angular-25ln)
+- [Every Performance tips for angular app (RunTime Part)](https://dev.to/imm9o/every-performance-tips-for-angular-app-runtime-part-hhg)
+- [Every Performance tips for angular app](https://dev.to/imm9o/every-performance-tips-for-angular-app-25c4)
 <!-- BLOG-POST-LIST:END -->
