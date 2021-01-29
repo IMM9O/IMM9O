@@ -35,8 +35,8 @@
 </p>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=imm9o&show_icons=true&locale=en" alt="imm9o" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imm9o&" alt="imm9o" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imm9o&show_icons=true&locale=en" alt="imm9o" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imm9o&" alt="imm9o" />
 </p>
 
 ---
