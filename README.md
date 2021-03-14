@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imm9o&label=Profile%20views&color=0e75b6&style=flat" alt="imm9o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imm9o" alt="imm9o" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imm9o" alt="imm9o" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imm9oo" target="_blank"><img src="https://img.shields.io/twitter/follow/imm9oo?logo=twitter&style=for-the-badge" alt="imm9oo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imm9oo" target="_blank"><img src="https://img.shields.io/twitter/follow/imm9oo?logo=twitter&style=for-the-badge" alt="imm9oo" /></a> </p> -->
 
 - 🌱 My currently daily basis learning is: **React Ecosystem and TDD**
 
@@ -34,10 +34,10 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imm9o&show_icons=true&locale=en" alt="imm9o" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imm9o&" alt="imm9o" />
-</p>
+</p> -->
 
 ---
 
