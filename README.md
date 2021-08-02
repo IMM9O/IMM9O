@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/imm9oo" target="_blank"><img src="https://img.shields.io/twitter/follow/imm9oo?logo=twitter&style=for-the-badge" alt="imm9oo" /></a> </p> -->
 
-- 🌱 My currently daily basis learning is: **React Ecosystem and TDD**
+- 👷‍♂️ My currently daily basis working is: **React Ecosystem and TDD**
 
-- 💡 I'm currently interesting in **Svelte**
+- 🌱 My currently daily basis learning is: **Software engineering**
+
+- 💡 I'm currently interesting in **Python** the root for many modern sciences like (AI, ML, Cryptocurrency and Data) as a hobby.
+
+- 📖 I love reading books
 
 - 📝 I have a blog take a look [https://imm9o.github.io/](https://imm9o.github.io/)
 
