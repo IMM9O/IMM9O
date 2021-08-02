@@ -49,7 +49,6 @@
 ### 📚 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Top skills you need to master angular 👨‍💻](https://dev.to/imm9o/top-skills-you-need-to-master-angular-44pj)
 - [A Step-by-Step Guide Deploying A Static Site or Single-page App to github pages](https://dev.to/imm9o/a-step-by-step-guide-deploying-a-static-site-or-single-page-app-to-github-pages-51ob)
 - [Add Multiple ssh keys in one machine](https://dev.to/imm9o/add-multiple-ssh-keys-in-one-machine-29hk)
