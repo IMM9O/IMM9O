@@ -9,13 +9,13 @@
 
 - 👷‍♂️ My currently daily basis working is: **React Ecosystem and TDD**
 
-- 🌱 My currently daily basis learning is: **Software engineering**
+- 🌱 Currently learning: **Software engineering**.
 
-- 💡 Interesting in **Python**.
+- 💡 Interested in **Python**.
 
 - 📖 I love reading books 📚 & Travailing ✈.
 
-- 📝 I have a blog take a look [https://imm9o.github.io/](https://imm9o.github.io/)
+- 📝 I have a blog take a look [here](https://imm9o.github.io/)
 
 - 💬 Ask me about **Angular, React and Web performance**
 
