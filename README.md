@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islam Muhammad (IMM9O)</h1>
-<h3 align="center">My name is Islam Muhammad (AKA: IMM9O), Senior Software Engineer passionate about building large-scale apps with a focus on accessibility and performance 👨‍💻.</h3>
+<h3 align="center">My name is Islam Muhammad (AKA: IMM9O), Senior Software Engineer (FrontEnd) passionate about building large-scale apps with a focus on accessibility and performance 👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imm9o&label=Profile%20views&color=0e75b6&style=flat" alt="imm9o" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🌱 My currently daily basis learning is: **Software engineering**
 
-- 💡 I'm currently interesting in **Python** the root for many modern sciences like (AI, ML, Cryptocurrency and Data) as a hobby.
+- 💡 Interesting in **Python**.
 
-- 📖 I love reading books
+- 📖 I love reading books 📚 & Travailing ✈.
 
 - 📝 I have a blog take a look [https://imm9o.github.io/](https://imm9o.github.io/)
 
