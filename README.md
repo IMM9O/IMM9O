@@ -1,26 +1,12 @@
-<style>
-table {
-    margin: 0 auto !important;
-}
-td, th {
-   border: none!important;
-}
-</style>
-
-<h1 align="center">
-Hi 👋, I'm Islam Muhammad (IMM9O)
-</h1>
+<h1 align="center">Hi 👋, I'm Islam Muhammad (IMM9O)</h1>
 
 
 <a align="center" href="https://twitter.com/imm9oo" target="_blank"><img  align="center" src="https://img.shields.io/twitter/follow/imm9oo?logo=twitter&style=for-the-badge" alt="imm9oo" /></a>
 
 
+I'm Software Engineer who is passionate about building large-scale apps with a focus on accessibility and performance 👨‍💻.
 
-<table>
-
-
-<tr>I'm Software Engineer who is passionate about building large-scale apps with a focus on accessibility and performance 👨‍💻.</tr>
-
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td>
 
