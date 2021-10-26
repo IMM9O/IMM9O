@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Islam Muhammad (IMM9O)</h1>
 
 <p align="center">
-    <a href="https://twitter.com/imm9oo"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/IMM_9O"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/IMM_9O"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <a href="https://linkedin.com/in/islam-muhammad"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
