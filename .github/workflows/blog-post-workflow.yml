@@ -11,4 +11,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: '4'
-          feed_list: 'https://dev.to/feed/imm9o'
+          feed_list: 'https://imm9o.github.io/feed/feed.xml'
