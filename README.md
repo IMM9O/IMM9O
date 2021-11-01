@@ -36,8 +36,9 @@ I'm Software Engineer who is passionate about building large-scale apps with a f
 ## Blog posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-- [Top skills you need to master angular 👨‍💻](https://dev.to/imm9o/top-skills-you-need-to-master-angular-44pj)
-- [A Step-by-Step Guide Deploying A Static Site or Single-page App to github pages](https://dev.to/imm9o/a-step-by-step-guide-deploying-a-static-site-or-single-page-app-to-github-pages-51ob)
-- [Add Multiple ssh keys in one machine](https://dev.to/imm9o/add-multiple-ssh-keys-in-one-machine-29hk)
-- [Change detections rules in angular](https://dev.to/imm9o/rules-of-change-detections-in-angular-5hhm)
+- [Top skills you need to master angular 👨‍💻](https://imm9o.github.io/posts/top_skills_you_need_to_master_angular/)
+- [Add Multiple ssh keys in one machine](https://imm9o.github.io/posts/add_one_or_more_ssh_keys_in_one_machine/)
+- [A little trick for your productivity](https://imm9o.github.io/posts/how_to_speed_up_your_workflow/)
+- [Change detection rules in angular](https://imm9o.github.io/posts/change_detection_rules_in_angular/)
+- [Web Components with angular](https://imm9o.github.io/posts/web_components_with_angular/)
 <!-- BLOG-POST-LIST:END -->
