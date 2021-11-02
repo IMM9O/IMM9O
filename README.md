@@ -4,7 +4,7 @@
     <a href="https://twitter.com/IMM_9O"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.instagram.com/IMM_9O"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://linkedin.com/in/islam-muhammad"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://imm9o.github.io/"><img src="	https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"/></a>
+    <a href="https://imm9o.github.io/"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"/></a>
     <a href="https://imm9o.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://dev.to/imm9o"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
