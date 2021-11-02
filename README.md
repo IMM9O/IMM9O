@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Islam Muhammad (IMM9O)</h1>
 
 <p align="center">
-    <a href="https://twitter.com/IMM_9O"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat-square&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/IMM_9O"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat-square&logo=instagram&logoColor=white"/></a>
     <a href="https://linkedin.com/in/islam-muhammad"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <a href="https://imm9o.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
     <a href="https://dev.to/imm9o"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
+    <a href="https://twitter.com/IMM_9O"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat-square&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/IMM_9O"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IMM9O&theme=dark&show_icons=true">](https://metrics.lecoq.io/IMM9O?template=classic)
@@ -64,3 +64,11 @@ A FrontEnd Engineer who is passionate about building large-scale apps with a foc
 <!-- BLOG-POST-LIST:END -->
 
 [👉 More Blog Posts](https://imm9o.github.io/)
+
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=IMM9O"
+    alt="Islam Muhammad GtiHub Profile Viewers"
+  />
+</p>
