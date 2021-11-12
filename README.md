@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Islam Muhammad (IMM9O)</h1>
+<h1 align="center">Hi there 👋, I'm Islam Muhammad, IMM9O for short</h1>
 
 <p align="center">
-    <a href="https://linkedin.com/in/islam-muhammad"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://imm9o.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
-    <a href="https://dev.to/imm9o"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
-    <a href="https://twitter.com/IMM_9O"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat-square&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/IMM_9O"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat-square&logo=instagram&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=fpopout&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/IMM_9O" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=fpopout&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/IMM_9O" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=fpopout&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+    <a href="https://imm9o.github.io/feed/feed.xml" target="_blank"><img src="https://img.shields.io/badge/-Rss-FFA500.svg?logo=rss&style=popout"></a>
+    <a href="https://imm9o.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E.svg?logo=medium&style=popout"></a>
+    <a href="https://dev.to/imm9o" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A.svg?logo=dev.to&style=popout"></a>
 </p>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IMM9O&theme=dark&show_icons=true">](https://metrics.lecoq.io/IMM9O?template=classic)
@@ -43,7 +47,7 @@ A FrontEnd Engineer who is passionate about building large-scale apps with a foc
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badg" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-Docker-EEE.svg?style=for-the-badg" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
