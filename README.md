@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Islam Muhammad, IMM9O for short</h1>
+<h1 align="center">Hi there 👋, I'm Islam Muhammad </h1>
 
 <p align="center">
     <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=fpopout&logo=linkedin&logoColor=white"/></a>
