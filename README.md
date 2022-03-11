@@ -16,9 +16,9 @@
 
 A FrontEnd Engineer who is passionate about building large-scale apps with a focus on accessibility and performance 👨‍💻.
 
-- 👷‍♂️ My currently daily basis working is: **React Ecosystem and TDD**
+- 👷‍♂️ My currently daily basis working stack is: **React Ecosystem**
 
-- 📖 I love reading books 📚 & Travailing ✈.
+- 📖 I love reading 📚, hiking 🥾, and travailing ✈.
 
 - 📝 I have a technical blog take a look [here](https://imm9o.github.io/)
 
