@@ -16,9 +16,9 @@
 
 Frontend Engineer, blogger, reader, and geek who is passionate about the latest technologies and updates. he loves exploring and travels ✈, he loves to eat `Knafeh Nabulsi` 😋, watch soccer matches ⚽, Anime, and MCU Movies.
 
-- 👷‍♂️ My currently daily basis working is: **React Ecosystem**
+- 👷‍♂️ My currently daily basis working stack is: **React Ecosystem**
 
-- 📖 I love reading 📚 & Travailing ✈.
+- 📖 I love reading 📚, hiking 🥾, and travailing ✈.
 
 - 📝 I have a technical blog take a look [here](https://imm9o.github.io/)
 
