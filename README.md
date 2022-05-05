@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Islam Muhammad, IMM9O for short</h1>
+<h1 align="center">Hi there 👋, I'm Islam Muhammad</h1>
 
 <p align="center">
     <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=fpopout&logo=linkedin&logoColor=white"/></a>
@@ -14,11 +14,11 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IMM9O&theme=dark&show_icons=true">](https://metrics.lecoq.io/IMM9O?template=classic)
 
-A FrontEnd Engineer who is passionate about building large-scale apps with a focus on accessibility and performance 👨‍💻.
+Frontend Engineer, blogger, reader, and geek who is passionate about the latest technologies and updates. he loves exploring and travels ✈, he loves to eat `Knafeh Nabulsi` 😋, watch soccer matches ⚽, Anime, and MCU Movies.
 
-- 👷‍♂️ My currently daily basis working is: **React Ecosystem and TDD**
+- 👷‍♂️ My currently daily basis working is: **React Ecosystem**
 
-- 📖 I love reading books 📚 & Travailing ✈.
+- 📖 I love reading 📚 & Travailing ✈.
 
 - 📝 I have a technical blog take a look [here](https://imm9o.github.io/)
 
@@ -26,7 +26,7 @@ A FrontEnd Engineer who is passionate about building large-scale apps with a foc
 
 ---
 
-## Leatest Blog Posts 📝
+## Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
 - [Top skills you need to master angular 👨‍💻](https://imm9o.github.io/posts/top_skills_you_need_to_master_angular/)
