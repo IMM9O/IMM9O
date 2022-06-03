@@ -3,7 +3,6 @@
 <p align="center">
     <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=fpopout&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/IMM_9O" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=fpopout&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/IMM_9O" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=fpopout&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -37,7 +36,6 @@ Frontend Engineer, blogger, reader, and geek who is passionate about the latest 
 <!-- BLOG-POST-LIST:END -->
 
 [👉 More Blog Posts](https://imm9o.github.io/)
-
 
 <p align="left">
   <img
