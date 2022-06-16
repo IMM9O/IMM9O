@@ -13,7 +13,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IMM9O&theme=dark&show_icons=true">](https://metrics.lecoq.io/IMM9O?template=classic)
 
-Frontend Engineer, blogger, reader, and geek who is passionate about the latest technologies and updates. he loves exploring and travels ✈, he loves to eat `Knafeh Nabulsi` 😋, watch soccer matches ⚽, Anime, and MCU Movies.
+Frontend Engineer, blogger, reader, and geek who is passionate about the latest technologies and updates. he loves exploring and travels ✈, he loves to eat `Knafeh Nabulsi` 😋,and watch soccer matches ⚽.
 
 - 👷‍♂️ My currently daily basis working stack is: **React Ecosystem**
 
