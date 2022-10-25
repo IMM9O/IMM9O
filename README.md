@@ -2,13 +2,13 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=fpopout&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/IMM_9O" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=fpopout&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/islamuad" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=fpopout&logo=twitter&logoColor=white"/></a>
 </p>
 
 <p align="center">
     <a href="https://imm9o.github.io/feed/feed.xml" target="_blank"><img src="https://img.shields.io/badge/-Rss-FFA500.svg?logo=rss&style=popout"></a>
-    <a href="https://imm9o.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E.svg?logo=medium&style=popout"></a>
-    <a href="https://dev.to/imm9o" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A.svg?logo=dev.to&style=popout"></a>
+    <a href="https://islamuad.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E.svg?logo=medium&style=popout"></a>
+    <a href="https://dev.to/islamuad" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A.svg?logo=dev.to&style=popout"></a>
 </p>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IMM9O&theme=dark&show_icons=true">](https://metrics.lecoq.io/IMM9O?template=classic)
