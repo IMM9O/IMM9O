@@ -2,7 +2,6 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=fpopout&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/islamuad" target="_blank"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=fpopout&logo=twitter&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -15,11 +14,11 @@
 
 Frontend Engineer, blogger, reader, and geek who is passionate about the latest technologies and updates. he loves exploring and travels ✈, he loves to eat `Knafeh Nabulsi` 😋,and watch soccer matches ⚽.
 
-- 👷‍♂️ My currently daily basis working stack is: **React Ecosystem**
+- 👷‍♂️ My daily basis working stack is: **React**, **Rxjs**, **XState**, **Redux**, **Ramda** ,**SASS**, and more. 
 
 - 📖 I love reading 📚, hiking 🥾, and travailing ✈.
 
-- 📝 I have a technical blog take a look [here](https://imm9o.github.io/)
+- 📝 I have a technical blog take a look [here](https://imm9o.github.io/).
 
 - 💬 Ask me about **Frontend, JavaScript, React and Web performance**
 
