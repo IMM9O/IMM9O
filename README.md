@@ -24,12 +24,11 @@ Frontend Engineer, blogger, reader, and geek who is passionate about the latest 
 ## Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Top skills you need to master angular 👨‍💻](https://imm9o.github.io/posts/top_skills_you_need_to_master_angular/)
-- [Add Multiple ssh keys in one machine](https://imm9o.github.io/posts/add_one_or_more_ssh_keys_in_one_machine/)
-- [A little trick for your productivity](https://imm9o.github.io/posts/how_to_speed_up_your_workflow/)
+- [Add Multiple ssh keys in one machine](https://imm9o.github.io/posts/Add-Multiple-ssh-keys-in-one-machine/)
 - [Change detection rules in angular](https://imm9o.github.io/posts/change_detection_rules_in_angular/)
 - [Web Components with angular](https://imm9o.github.io/posts/web_components_with_angular/)
+- [What you gonna lose if you choose react over angular](https://imm9o.github.io/posts/what-you-gona-lose-if-you-chose-react-over-angular/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 More Blog Posts](https://imm9o.github.io/)
