@@ -24,11 +24,11 @@ Frontend Engineer, blogger, reader, and geek who is passionate about the latest 
 ## Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Chain Calling in JavaScript: My Personal Journey](https://imm9o.github.io/posts/demystifying_chain_calling_in_javascript/)
 - [Organizing Your Workflow with GitHub Actions](https://imm9o.github.io/posts/organizing-your-workflow-with-github-actions/)
 - [The trades of and benefits of different web rendering technique](https://imm9o.github.io/posts/the_trades_of_and_benefits_of_different_web_rendering_technique/)
 - [Top skills you need to master angular 👨‍💻](https://imm9o.github.io/posts/top_skills_you_need_to_master_angular/)
 - [Add Multiple ssh keys in one machine](https://imm9o.github.io/posts/Add-Multiple-ssh-keys-in-one-machine/)
-- [Change detection rules in angular](https://imm9o.github.io/posts/change_detection_rules_in_angular/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 More Blog Posts](https://imm9o.github.io/)
