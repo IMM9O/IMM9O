@@ -2,8 +2,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/islam-muhammad" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff"/></a>
-  <a href="https://imm9o.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000?style=for-the-badge&logo=medium&logoColor=%23fff"></a>
-  <a href="https://dev.to/imm9o" target="_blank"><img src="https://img.shields.io/badge/Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=%23fff"></a>
   <a href="https://imm9o.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Blog-%23FF5722?style=for-the-badge&logo=blogger&logoColor=%23fff"/></a>
 </p>
 
