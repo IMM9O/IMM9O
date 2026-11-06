@@ -5,17 +5,17 @@
   <a href="https://imm9o.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Blog-%23FF5722?style=for-the-badge&logo=blogger&logoColor=%23fff"/></a>
 </p>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IMM9O&theme=dark&show_icons=true">](https://metrics.lecoq.io/IMM9O?template=classic)
+I am a full-stack engineer and a blogger. JavaScript is my main language, and I use it from the browser to the server.
 
-Frontend Engineer, blogger, reader, and geek who is passionate about the latest technologies and updates. he loves exploring and travels ✈, he loves to eat `Knafeh Nabulsi` 😋,and watch soccer matches ⚽.
+- 👷‍♂️ My main stack: **Node.js**, **NestJS**, **Next.js**, **React**, and **Laravel**.
 
-- 👷‍♂️ My daily basis working stack is: **React**, **Rxjs**, **XState**, **Redux**, **Ramda** ,**SASS**, and more.
+- 🤖 I use AI to automate my daily workflows.
 
-- 📖 I love reading 📚, hiking 🥾, and travailing ✈.
+- 📝 I write a technical blog. Read it [here](https://imm9o.github.io/).
 
-- 📝 I have a technical blog take a look [here](https://imm9o.github.io/).
+- 💬 Ask me about **JavaScript, Node.js, full-stack web apps, and AI automation**.
 
-- 💬 Ask me about **Frontend, JavaScript, React and Web performance**
+- 📖 Outside work, I love reading 📚, hiking 🥾, traveling ✈, soccer ⚽, and `Knafeh Nabulsi` 😋.
 
 ---
 
@@ -34,6 +34,6 @@ Frontend Engineer, blogger, reader, and geek who is passionate about the latest 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=IMM9O"
-    alt="Islam Muhammad GtiHub Profile Viewers"
+    alt="Islam Muhammad GitHub Profile Viewers"
   />
 </p>
