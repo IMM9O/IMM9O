@@ -22,11 +22,11 @@ I am a full-stack engineer and a blogger. JavaScript is my main language, and I 
 ## Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [From Android to iPhone: what I love and what I still miss](https://imm9o.github.io/posts/from_android_to_iphone/)
+- [12 lessons from 10 years of working as a developer](https://imm9o.github.io/posts/lessons_after_10_years_working/)
 - [Demystifying Chain Calling in JavaScript: My Personal Journey](https://imm9o.github.io/posts/demystifying_chain_calling_in_javascript/)
 - [Organizing Your Workflow with GitHub Actions](https://imm9o.github.io/posts/organizing-your-workflow-with-github-actions/)
 - [The trades of and benefits of different web rendering technique](https://imm9o.github.io/posts/the_trades_of_and_benefits_of_different_web_rendering_technique/)
-- [Top skills you need to master angular 👨‍💻](https://imm9o.github.io/posts/top_skills_you_need_to_master_angular/)
-- [Add Multiple ssh keys in one machine](https://imm9o.github.io/posts/Add-Multiple-ssh-keys-in-one-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 More Blog Posts](https://imm9o.github.io/)
