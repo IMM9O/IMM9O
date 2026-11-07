@@ -16,3 +16,5 @@ jobs:
         with:
           max_post_count: '5'
           feed_list: 'https://imm9o.github.io/rss.xml'
+          committer_username: 'IMM9O'
+          committer_email: '11165508+IMM9O@users.noreply.github.com'
